@@ -21,4 +21,5 @@ OS
 Wiki
 - MediaWiki : https://www.mediawiki.org
 
-
+Mail Server
+- iRedMail : http://www.iredmail.org/
