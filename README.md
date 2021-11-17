@@ -1,9 +1,8 @@
 # self-hosted
 
-A simple list of self hosted alternatives to cloud services :
+A simple list of self hosted alternatives :
 
 File Hosting
-- OwnCloud  : https://owncloud.org/
 - NextCloud  : https://github.com/nextcloud
 - Seafile : https://github.com/haiwen/seafile
 
@@ -14,12 +13,16 @@ Read-it-later
 Git Repository Manager
 - GitLab : https://github.com/gitlabhq/gitlabhq
 
-OS 
-- YuNoHost : https://yunohost.org/
-- Cozy : https://github.com/cozy
-
 Wiki
 - MediaWiki : https://www.mediawiki.org
 
 Mail Server
 - iRedMail : http://www.iredmail.org/
+
+Ticketing
+- GestSup : https://gestsup.fr/
+
+Vulnerability scanner :
+- OpenVas :  https://www.openvas.org/
+- Arachni : https://www.arachni-scanner.com/
+- indusface : https://www.indusface.com/
